@@ -10,7 +10,7 @@ with open("test_files/3fold.pgn") as file:
             game.end().parent.board(), limit=chess.engine.Limit(time=0.01)
         )
         if res.pv[0] != game.end().move:
-            # We skip situations that re too ambigious
+            # We skip situations that are too ambigious
             if res.score.is_mate() or abs(res.score.relative.cp) > 200:
                 print(game, file=dont, end="\n\n", flush=True)
         else:
