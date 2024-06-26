@@ -26,7 +26,7 @@ import yaml
 
 from ludwig.api import LudwigModel
 
-os.environ["HUGGING_FACE_HUB_TOKEN"] = "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"
+os.environ["HUGGING_FACE_HUB_TOKEN"] = "INSERT HUGGING FACE HUB TOKEN HERE"
 
 import numpy as np
 import pandas as pd
