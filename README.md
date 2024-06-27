@@ -14,6 +14,10 @@ Zips is a Python-based chess engine I wrote in high school. It implements a clas
 ## agents
 Agents is a short Java demonstration of emergent properties. The agents (30000 in the source code file) are given an initial position and acceleration vector, and then are set loose on the screen. There is a slight bit of random movement built in, but otherwise the agents simply follow the trails of other agents. These simple rules give rise to complex lattices of trails as the agents fight to stay in line with each other. This experiment was inspired by [Sebastian Lague's](https://www.youtube.com/c/SebastianLague) work on boids, ants, and slimes.
 
+<p align="center">
+  <img src="https://github.com/simon-goode/works/blob/main/agents/lattices.png" width="400" height="400">
+</p>
+
 ## snake
 Snake is simply a recreation of the classic arcade game. I wrote this simplified, pixel-based version of Snake in about 20 minutes in Java during a particularly drawn-out Introduction to Microeconomics lecture.
 
