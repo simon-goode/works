@@ -5,6 +5,9 @@ Hello! Welcome to my collection of fun school assignments and little pet project
 ## cosi149b
 This folder contains 3 pytorch/scikit-learn projects from **cosi149b, Machine Learning with Big Data**. These projects are generally intended to be run on Google Colab, and thus have been designed to run properly with only ~9GB available RAM. This folder demonstrates my proficiency with common methods for big data machine learning.
 
+## geospatials
+Data visualization experiments using matplotlib, CartoPy, and NumPy. Here's an example, using raw airport and route spreadsheet data to make a beautiful map of air traffic routes, with airport markers scaled by amount of traffic. ![Map of Air Traffic Routes, with Airport Markers scaled by amount of airport traffic](geospatials/air_travel_routes_with_airport_size_2.png)
+
 ## zips
 Zips is a Python-based chess engine I wrote in high school. It implements a classic [MiniMax](https://en.wikipedia.org/wiki/Minimax) search algorithm with accurate legal move generation and a WIP implementation of the [Universal Chess Interface](https://www.chessprogramming.org/UCI), for seamless assimilation with all chess-related software. Zips demonstrates sleek code and my ability to create interconnected systems, as well as my knowledge of data algorithms.
 
