@@ -3,7 +3,7 @@
 Hello! Welcome to my collection of fun school assignments and little pet projects.
 
 ## cosi149b
-This folder contains 3 pytorch/scikit-learn projects from **cosi149b, Machine Learning with Big Data**. These projects are generally intended to be run on Google Colab, and thus have been designed to run properly with only ~9GB available RAM. This folder demonstrates my proficiency with common methods for big data machine learning.
+This folder contains 3 pytorch/scikit-learn projects from **cosi149b, Machine Learning with Big Data**. This class focused on predictive modeling with CNNs and results-based hyperparameter tuning. These projects are generally intended to be run on Google Colab, and thus have been designed to run properly with only ~9GB available RAM. This folder demonstrates my proficiency with common methods for big data machine learning, as well as my ability to deliver results under processing power constraints.
 
 ## geospatials
 Data visualization experiments using matplotlib, CartoPy, and NumPy. Here's an example, using raw airport and route spreadsheet data to make a beautiful map of air traffic routes, with airport markers scaled by amount of traffic. ![Map of Air Traffic Routes, with Airport Markers scaled by amount of airport traffic](geospatials/air_travel_routes_with_airport_size_2.png)
