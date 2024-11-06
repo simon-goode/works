@@ -5,6 +5,9 @@ Hello! Welcome to my collection of fun school assignments and little pet project
 ## [The Neptune Project](https://github.com/simon-goode/neptune)
 Data analytics, machine learning models, and other technical solutions. Finished reports found [here](https://github.com/simon-goode/neptune/tree/main/memos).
 
+## [American Industry Project](https://github.com/simon-goode/industrial-america)
+Highlighting political trends in the Rust Belt and the effect of recent industrial policy in the heartland of the United States.
+
 ## [cosi149b](cosi149b)
 This folder contains 3 pytorch/scikit-learn projects from **cosi149b, Machine Learning with Big Data**. This class focused on predictive modeling with CNNs and results-based hyperparameter tuning. These projects are generally intended to be run on Google Colab, and thus have been designed to run properly with only ~9GB available RAM. This folder demonstrates my proficiency with common methods for big data machine learning, as well as my ability to deliver results under processing power constraints.
 
