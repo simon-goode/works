@@ -2,6 +2,9 @@
 
 Hello! Welcome to my collection of fun school assignments and little pet projects.
 
+## [Tiger](https://github.com/simon-goode/tiger)
+Applied econometrics library for Python, striking a balance between the power of Numpy and the easy syntax of Stata and R.
+
 ## [The Neptune Project](https://github.com/simon-goode/neptune)
 Data analytics, machine learning models, and other technical solutions. Finished reports found [here](https://github.com/simon-goode/neptune/tree/main/memos).
 
